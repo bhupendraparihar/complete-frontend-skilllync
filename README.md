@@ -99,12 +99,74 @@
 <section class="shop-by-category">
     <h1>Shop by Category</h1>
     <section>
-        <img ><!-- img for women-->
+        <img src="./images/cat1.jpg"><!-- img for women-->
         <h2>Women</h2>
         <button>Best New Deals</button>
     <section>
 </section>
 ```
 
+#### User Story 12: Latest proudcts should have another navigation for All, New, Featured, Offer
 
+#### User Story 13: Latest proudcts should have a section with class "card" to show different products, you should have atleast 6 card sections showing different product images
+```html
+<section class="card">
+    <img src="./images/product1.png">
+    <div>
+        <img src="./images/cart.png">
+        <img src="./images/view.png">
+        <img src="./images/wishlist.png">
+    </div>
+    <div class="ratings">
+        <i class="fa fa-star-o" aria-hidden="true"></i>
+        <i class="fa fa-star-o" aria-hidden="true"></i>
+        <i class="fa fa-star-o" aria-hidden="true"></i>
+        <i class="fa fa-star-o" aria-hidden="true"></i>
+        <i class="fa fa-star-o" aria-hidden="true"></i>
+    </div>
+    <h3>Green Dress with details</h3>
+    <h4><span>$40.00</span><span>$60.00</span></h4>
+</section>
+```
 
+#### User Story 14: Use font-awesome for icons to be displayed properly
+Hint: Add font-awesome cdn in the head section
+```html
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swag of India</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+```
+
+#### User Story 15: Footer section should have three sections holding information for Free Shipping Method, Secure Payment System, Policies. Check the mock for more understading.
+```html
+<footer>
+    <section>
+        <section>
+            <h2>Free Shipping Method</h2>
+            <p>aorem ixpsacdolor sit ameasecur adipisicing elitsf edasd.</p>
+        </section>
+        ...
+    </section>
+</footer>
+```
+
+#### User Story 16: Footer should include Copyright text
+
+#### User Story 17: Footer should include social media icons, user font awesome for these icons
+```html
+<section>
+    <h6>Copyright © All rights reserved</h6>
+    <div class="social-media">
+        <i class="fa fa-twitter" aria-hidden="true"></i>
+        <i class="fa fa-facebook" aria-hidden="true"></i>
+        <i class="fa fa-behance" aria-hidden="true"></i>
+        <i class="fa fa-globe" aria-hidden="true"></i>
+    </div>
+</section>
+```
+
+### Don't worry if your page is not looking preety. We will make it beautiful in the next challenge.
