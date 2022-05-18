@@ -1,6 +1,6 @@
 # complete-frontend-skilllync
 
-## Creating html mockup for home page
+## Creating html mockup for home page, you are supposed to use only html, no css for this challenge.
 
 ### User Story 1: Create a folder name challenge-2, inside that create a file name "index.html"
 
