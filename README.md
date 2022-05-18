@@ -1,12 +1,10 @@
-# complete-frontend-skilllync
+## Creating html mockup for home page
 
-## Creating html mockup for home page, you are supposed to use only html, no css for this challenge.
+#### User Story 1: Create a folder name challenge-2, inside that create a file name "index.html"
 
-### User Story 1: Create a folder name challenge-2, inside that create a file name "index.html"
+#### User Story 2: Inside challenge-2 folder, create a folder called images. This images folder should contain all the required images. Download all the images required from this link.
 
-### User Story 2: Inside challenge-2 folder, create a folder called images. This images folder should contain all the required images. Download all the images required from this link.
-
-### User Story 3: your index.html should contain html5 template
+#### User Story 3: your index.html should contain html5 template
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -22,11 +20,11 @@
 </html>
 ```
 
-### User Story 4: Give the title as "Swag of India"
+#### User Story 4: Give the title as "Swag of India"
 
-### User Story 5: Home page should contain three section at least, header, main and footer, use respective symantic tags
+#### User Story 5: Home page should contain three section at least, header, main and footer, use respective symantic tags
 
-### User Story 6: Header section should contain two nav element, one containing top most navigation, other containg main navigation.
+#### User Story 6: Header section should contain two nav element, one containing top most navigation, other containg main navigation.
 
 ```html
 <header>
@@ -39,7 +37,7 @@
 </header>
 ```
 
-### User Story 7: top-navigation should contain following elements
+#### User Story 7: top-navigation should contain following elements
 + image to show flag
 + dropdown to display country
 + customer care number
@@ -49,7 +47,7 @@
 + "Cart" link
 + "Checkout" link
 
-### User Story 8: main-navigation should contain following elements
+#### User Story 8: main-navigation should contain following elements
 + image to show logo
 + "Home" link
 + "Categories" link
@@ -61,7 +59,7 @@
 + icon for cart
 + "Sign in" button
 
-### User Story 9: main tag should contain three more sections 
+#### User Story 9: main tag should contain three more sections 
 + a section element with class 'carousel' to show addvertisement or announcements
 + section for "shop by category"
 + section for "latest products"
@@ -80,7 +78,7 @@
 </main>
 ```
 
-### User Story 10: carousel section should have an image, and a section for description
+#### User Story 10: carousel section should have an image, and a section for description
 
 ```html
 <section class="carousel">
@@ -96,7 +94,7 @@
 </section>
 ```
 
-### User Story 11: Shop by Category section should have different section for Women, Ethnic Wear and Mens Cloth
+#### User Story 11: Shop by Category section should have different section for Women, Ethnic Wear and Mens Cloth
 ```html
 <section class="shop-by-category">
     <h1>Shop by Category</h1>
@@ -107,3 +105,6 @@
     <section>
 </section>
 ```
+
+
+
