@@ -170,3 +170,5 @@ Hint: Add font-awesome cdn in the head section
 ```
 
 ### Don't worry if your page is not looking preety. We will make it beautiful in the next challenge.
+
+### To upload this challenge, please zip the challenge-2 folder and then upload in the skill-lync challenge 2 section.
